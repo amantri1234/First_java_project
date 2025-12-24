@@ -35,3 +35,8 @@ class SixthClass {
         System.out.println("This is the SixthClass in the same file.");
     }
 }
+class SeventhClass {
+    public void announce() {
+        System.out.println("This is the SeventhClass in the same file.");
+    }
+}
