@@ -23,3 +23,9 @@ class FourthClass {
         System.out.println("This is the FourthClass in the same file.");
     }
 }
+
+class FifthClass {
+    public void revealData() {
+        System.out.println("This is the FifthClass in the same file.");
+    }
+}
