@@ -17,3 +17,9 @@ class ThirdClass {
         System.out.println("This is the ThirdClass in the same file.");
     }
 }
+
+class FourthClass {
+    public void printDetails() {
+        System.out.println("This is the FourthClass in the same file.");
+    }
+}
