@@ -29,3 +29,9 @@ class FifthClass {
         System.out.println("This is the FifthClass in the same file.");
     }
 }
+
+class SixthClass {
+    public void exhibitContent() {
+        System.out.println("This is the SixthClass in the same file.");
+    }
+}
