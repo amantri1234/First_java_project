@@ -5,3 +5,9 @@ public class j2 {
         
     }
 }
+
+class Animal {
+    void eat() {
+        System.out.println("eating...");
+    }
+}
